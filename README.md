@@ -25,7 +25,6 @@ I’m a developer passionate about building modern, responsive, and user-friendl
   <img src="https://skillicons.dev/icons?i=python,sql" alt="Python and SQL" />
 </p>
 
-### 🔧 Tools & Design
 ### 🐧 DevOps & Operating Systems
 
 <p>
@@ -38,9 +37,6 @@ I’m a developer passionate about building modern, responsive, and user-friendl
   <img src="https://skillicons.dev/icons?i=git,github,figma" alt="Git, GitHub, and Figma" />
 </p>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma" alt="Git, GitHub, and Figma" />
-</p>
 
 ---
 
