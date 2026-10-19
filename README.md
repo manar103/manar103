@@ -26,6 +26,17 @@ I’m a developer passionate about building modern, responsive, and user-friendl
 </p>
 
 ### 🔧 Tools & Design
+### 🐧 DevOps & Operating Systems
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,jenkins,bash" alt="Docker, Linux, Jenkins, and Bash" />
+</p>
+
+### 🔧 Tools & Design
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,figma" alt="Git, GitHub, and Figma" />
+</p>
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,figma" alt="Git, GitHub, and Figma" />
