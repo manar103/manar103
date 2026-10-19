@@ -1,13 +1,24 @@
-# 👋 Hi, I'm Manar Elsayed
+<!-- Animated Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:1B263B,50:1D4E89,100:087E8B&height=180&section=header&text=Manar%20Elsayed&fontSize=42&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer&descSize=18&descAlignY=62&animation=fadeIn" width="100%" alt="Manar Elsayed - Full-Stack Developer" />
+</p>
 
-### 💻 Full-Stack Developer | Building for the Web
+<!-- Animated Introduction -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=377DFF&center=true&vCenter=true&width=600&lines=Founder+of+Modaker;Full-Stack+Developer;Building+Modern+Web+Applications;Passionate+About+Technology" alt="Animated introduction" />
+</p>
 
-I’m a developer passionate about building modern, responsive, and user-friendly web applications. I enjoy turning ideas into practical digital experiences, learning new technologies, and continuously improving my development skills.
+---
 
-- 🔭 Interested in building full-stack web applications
-- 🌱 Exploring modern web technologies and software development
-- 🎨 Interested in clean UI design and great user experiences
-- 🤝 Open to collaboration on interesting projects
+## 👩‍💻 About Me
+
+I'm Manar Elsayed, a Full-Stack Developer passionate about building modern, scalable, and user-friendly web applications.
+
+- 🚀 Founder of **Modaker**
+- 💻 Interested in frontend and backend development
+- 🛠️ Exploring DevOps, automation, and deployment workflows
+- 🎨 Passionate about clean UI/UX and maintainable code
+- 🤝 Open to collaboration and exciting development projects
 
 ---
 
@@ -16,35 +27,34 @@ I’m a developer passionate about building modern, responsive, and user-friendl
 ### 🌐 Frontend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="HTML, CSS, JavaScript, React" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS" />
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,sql" alt="Python and SQL" />
+  <img src="https://skillicons.dev/icons?i=python,postgres,mysql" alt="Python, PostgreSQL, and MySQL" />
 </p>
 
-### 🐧 DevOps & Operating Systems
+### 🐳 DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,linux,jenkins,bash" alt="Docker, Linux, Jenkins, and Bash" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,jenkins,bash,git,github" alt="Docker, Linux, Jenkins, Bash, Git, and GitHub" />
 </p>
 
-### 🔧 Tools & Design
+### 🎨 UI/UX Design
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma" alt="Git, GitHub, and Figma" />
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" />
 </p>
-
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manar103&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Manar's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manar103&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=manar103&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manar103&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
 </p>
 
 <p align="center">
@@ -55,38 +65,18 @@ I’m a developer passionate about building modern, responsive, and user-friendl
 
 ## 🚀 Featured Projects
 
-<!-- Add your best public repositories here.
-     Replace the examples below with your actual project names and links. -->
-
-<!--
-### 🔹 Project Name
-A short description of what the project does and the problem it solves.
-
-**Technologies:** React, JavaScript, SQL
-
-[View Repository](YOUR_REPOSITORY_URL)
--->
-
-*I'm continuously working on projects that help me learn, build, and grow as a developer.*
+<!-- Add your actual public project repositories here. -->
 
 ---
 
 ## 🤝 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/manar103">
-    <img src="https://img.shields.io/badge/GitHub-manar103-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+    <img src="https://img.shields.io/badge/GitHub-manar103-181717?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
-<!-- Add your real LinkedIn, portfolio, or professional email below when available. -->
-
----
-
 <p align="center">
-  <i>“Great software is built one step at a time.”</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
+  <i>Building ideas into reality, one line of code at a time.</i>
 </p>
